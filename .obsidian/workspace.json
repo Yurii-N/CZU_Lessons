@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "ac082916da97c4ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2540ce88d95bbd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e66cefd69ea5e667",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kurs_Info.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kurs_Info"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a6132b9fb8013207",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd1a5f8fcd73ee03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d159ccea8291cc31",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "e9f59ef6b529a4bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "7ece7b6e07bcde77",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "51a9ae429d117029",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ff16fdc979814f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11d479b4aca11f5b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_Kurs_Info.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для _Kurs_Info"
+            }
+          },
+          {
+            "id": "bc7b6db12497417d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_Kurs_Info.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из _Kurs_Info"
+            }
+          },
+          {
+            "id": "f9a72722148b8e26",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "18a97853c0c23340",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_Kurs_Info.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура _Kurs_Info"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "e66cefd69ea5e667",
+  "lastOpenFiles": [
+    "Spargalky/Slovník_CZ-RU.md",
+    "Kurs_Info.md",
+    "02_Cviceni/C1.md",
+    "01_Lekce/L2.md",
+    "01_Lekce/L1.md",
+    "Cíl předmětu.md",
+    "Znalosti a dovednosti.md"
+  ]
+}
