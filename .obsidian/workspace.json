@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kurs_Info.md",
+                "file": "01_Prednaska/P1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kurs_Info"
+              "title": "P1"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -160,22 +160,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "e66cefd69ea5e667",
   "lastOpenFiles": [
-    "Spargalky/Slovník_CZ-RU.md",
+    "01_Prednaska/P1.md",
+    "Untitled.base",
+    "01_Prednaska/P2.md",
     "Kurs_Info.md",
+    "Spargalky/Slovník_CZ-RU.md",
     "02_Cviceni/C1.md",
-    "01_Lekce/L2.md",
-    "01_Lekce/L1.md",
     "Cíl předmětu.md",
     "Znalosti a dovednosti.md"
   ]
