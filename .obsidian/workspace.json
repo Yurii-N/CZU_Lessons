@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Prednaska/P1.md",
+                "file": "1_rocnik/1_semestr/Zaklady_Pravnich_Nauk/02_Cviceni/C1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "P1"
+              "title": "C1"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -160,23 +160,37 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e66cefd69ea5e667",
+  "active": "d159ccea8291cc31",
   "lastOpenFiles": [
-    "01_Prednaska/P1.md",
+    "1_rocnik/1_semestr",
+    "1_rocnik",
+    "1_rocnik/1_semestr/Zaklady_Pravnich_Nauk/file.pdf",
+    "1_rocnik/1_semestr/Zaklady_Pravnich_Nauk/Kurs_Info.md",
+    "1_rocnik/1_semestr/Zaklady_Pravnich_Nauk/02_Cviceni/C1.md",
+    "1_rocnik/1_semestr/Zaklady_Pravnich_Nauk/01_Prednaska/P1.md",
+    "1_rocnik/1_semestr/Zaklady_Pravnich_Nauk/Zápočet - Reichert 25_26.pdf",
+    "Zápočet - Reichert 25_26.doc",
+    "1_rocnik/1_semestr/Zaklady_Pravnich_Nauk/Zápočet - Reichert 25_26.doc",
+    "1_rocnik/1_semestr/Zaklady_Pravnich_Nauk/Základní literatura.pdf",
+    "Základní.md",
+    "Zaklady_Pravnich_Nauk/Spargalky/Slovník_CZ-RU.md",
+    "normativní.md",
+    "1..md",
+    "___normativní právní akty (např. zákony a nařízení).md",
+    "2025-10-04.md",
+    "Zaklady_Pravnich_Nauk/01_Prednaska/P2.md",
+    "1_rocnik/1_semestr/Zaklady_Pravnich_Nauk",
     "Untitled.base",
-    "01_Prednaska/P2.md",
-    "Kurs_Info.md",
-    "Spargalky/Slovník_CZ-RU.md",
-    "02_Cviceni/C1.md",
     "Cíl předmětu.md",
     "Znalosti a dovednosti.md"
   ]
