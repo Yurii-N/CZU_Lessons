@@ -1,8 +1,8 @@
 [Syllab předmětu](file.pdf)
 
-[Základní literatura - JUDr. Ing. Eva Daniela Cvik, Ph.D. et. Ph.D. Soubor](obsidian://open?vault=Zaklady_pravnich_nauk&file=Zaklady_Pravnich_Nauk%2FZ%C3%A1kladn%C3%AD%20literatura.pdf)
+[Základní literatura - JUDr. Ing. Eva Daniela Cvik, Ph.D. et. Ph.D. Soubor](Základní_literatura.pdf)
  
-[ZS 2025/2025 - zápočtové podmínky Soubor](obsidian://open?vault=Zaklady_pravnich_nauk&file=Zaklady_Pravnich_Nauk%2FZ%C3%A1po%C4%8Det%20-%20Reichert%2025_26.pdf)
+[ZS 2025/2025 - zápočtové podmínky Soubor](Zápočet.pdf)
 
 [Sbírka mezinárodních smluv](https://www.zakonyprolidi.cz/ms/sbirka)
 
