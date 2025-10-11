@@ -1,0 +1,18 @@
+/* structogram.css */
+.structogram {
+  display: flex;
+  flex-direction: column;
+  width: fit-content; /* Ширина по содержимому */
+  border: 1px solid #ccc; /* Внешняя рамка, если нужна */
+  padding: 0;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.structogram-block {
+  border: 1px solid #ccc;
+  padding: 10px 20px;
+  text-align: center;
+  background-color: white;
+  margin-top: -1px; /* Чтобы рамки сливались */
+}
