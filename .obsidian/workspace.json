@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_rocnik/1_semestr/Zaklady_Pravnich_Nauk/01_Prednaska/P2.md",
+                "file": "1_rocnik/1_semestr/Úvod do principu počítačů/01_Prednaska/P2.md",
                 "mode": "source",
                 "source": false
               },
@@ -180,30 +180,33 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e66cefd69ea5e667",
+  "active": "d159ccea8291cc31",
   "lastOpenFiles": [
-    "1_rocnik/1_semestr/Matematická logika a grafy/02_Prednaska/P2 - Výroková logika.md",
-    "1_rocnik/1_semestr/Zaklady_Pravnich_Nauk/01_Prednaska/P2.md",
-    "1_rocnik/1_semestr/Algoritmizace/01_Prednaska/P1.md",
+    "1_rocnik/1_semestr/Úvod do principu počítačů/Pasted image 20251013134837.png",
+    "1_rocnik/1_semestr/Úvod do principu počítačů/01_Prednaska/P1 - Úvod do matematické logiky.md",
+    "1_rocnik/1_semestr/Úvod do principu počítačů/Pasted image 20251013132437.png",
+    "1_rocnik/1_semestr/Úvod do principu počítačů/01_Prednaska/P2.md",
+    "1_rocnik/1_semestr/Úvod do principu počítačů/Pasted image 20251013134136.png",
+    "1_rocnik/1_semestr/Úvod do principu počítačů/Pasted image 20251013133706.png",
     "1_rocnik/1_semestr/Algoritmizace/01_Prednaska/P2 - Strukturogramy.md",
+    "1_rocnik/1_semestr/Matematická logika a grafy/02_Prednaska/P2 - Výroková logika.md",
+    "1_rocnik/1_semestr/Matematická logika a grafy/02_Prednaska/P1 - Výroková logika.md",
+    "1_rocnik/1_semestr/Algoritmizace/01_Prednaska/P1.md",
+    "1_rocnik/1_semestr/Algoritmizace.zip",
+    "1_rocnik/1_semestr/Úvod do principu počítačů/Pasted image 20251013130048.png",
+    "1_rocnik/1_semestr/Zaklady_Pravnich_Nauk/01_Prednaska/P2.md",
     "1_rocnik/1_semestr/Algoritmizace/Pasted image 20251011125727.png",
     "1_rocnik/1_semestr/Algoritmizace/Pasted image 20251011125649.png",
     "1_rocnik/1_semestr/Algoritmizace/Pasted image 20251011125611.png",
     "1_rocnik/1_semestr/Algoritmizace/Pasted image 20251011125357.png",
     "1_rocnik/1_semestr/Algoritmizace/Pasted image 20251011125159.png",
     "1_rocnik/1_semestr/Algoritmizace/Pasted image 20251011125137.png",
-    "1_rocnik/1_semestr/Algoritmizace/Pasted image 20251011125110.png",
     "1_rocnik/1_semestr/Úvod do principu počítačů/02_Cviceni/С1 - Číselné soustavy a převody soustav.md",
-    "1_rocnik/1_semestr/Úvod do principu počítačů/Pasted image 20251007130943.png",
-    "1_rocnik/1_semestr/Úvod do principu počítačů/01_Prednaska/P1 - Úvod do matematické logiky.md",
-    "1_rocnik/1_semestr/Úvod do principu počítačů/Pasted image 20251007131319.png",
-    "1_rocnik/1_semestr/Úvod do principu počítačů/Pasted image 20251007131014.png",
     "1_rocnik/1_semestr/Matematická logika a grafy/01_Cviceni/C1 - Cvičení z výrokové logiky.md",
     "1_rocnik/1_semestr/Úvod do principu počítačů/02_Cviceni",
     "1_rocnik/1_semestr/Úvod do principu počítačů/01_Prednaska",
     "1_rocnik/1_semestr/Úvod do principu počítačů/Без названия.md",
     "1_rocnik/1_semestr/Úvod do principu počítačů",
-    "1_rocnik/1_semestr/Matematická logika a grafy/02_Prednaska/P1 - Výroková logika.md",
     "1_rocnik/1_semestr/Matematická logika a grafy/02_Prednaska",
     "1_rocnik/1_semestr/Matematická logika a grafy/01_Cviceni",
     "1_rocnik/1_semestr/Algoritmizace/02_Cviceni/C1 - Algoritmy.md",
@@ -216,7 +219,6 @@
     "1_rocnik/1_semestr/Algoritmizace/01_Prednaska.md",
     "1_rocnik/1_semestr/Algoritmizace/testy_zápočet.pdf",
     "1_rocnik/1_semestr/Zaklady_Pravnich_Nauk/Kurs_Info.md",
-    "1_rocnik/1_semestr/Zaklady_Pravnich_Nauk/Zápočet.pdf",
     "Základní_literatura.pdf.md",
     "1_rocnik/1_semestr/Zaklady_Pravnich_Nauk/02_Cviceni/C1.md",
     "1_rocnik/1_semestr/Zaklady_Pravnich_Nauk/01_Prednaska/P1.md",
@@ -225,8 +227,6 @@
     "normativní.md",
     "1..md",
     "___normativní právní akty (např. zákony a nařízení).md",
-    "2025-10-04.md",
-    "Zaklady_Pravnich_Nauk/01_Prednaska/P2.md",
-    "Cíl předmětu.md"
+    "2025-10-04.md"
   ]
 }
